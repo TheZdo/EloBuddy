@@ -1,0 +1,3 @@
+c:\users\fbi undercover pc\documents\visual studio 2015\Projects\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+c:\users\fbi undercover pc\documents\visual studio 2015\Projects\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Users\FBI Undercover PC\Documents\GitHub\EloBuddy\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
